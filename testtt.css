@@ -1,0 +1,19 @@
+.user-comment{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+.title_comment{
+    margin-left: 2%;
+    background-color: brown;
+    height: 15px;
+}
+.avatar_comment{
+    width:5%;
+    background-color: brown;
+    height: 15%;
+
+}
+.avatar_comment img{
+    width: 25%;
+}

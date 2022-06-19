@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
+    
+
+}
+.position-cart {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 10px;
+}
+.img-shop{
+    width: 50%;
+   
+}
+.shop-items {
+    z-index: 1;
+    position: relative;
+
+    
+
+}
+.cart-shop{
+    z-index: 2;
+    margin-top: -10%;
+    position: relative;
+    display:none;
+    margin-left:35%;
+    width: 30% ;
+
+    
+ 
+  
+    
+}
